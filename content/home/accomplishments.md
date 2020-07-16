@@ -19,33 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Ministry of Information and Communication Technology (MoICT), Bangladesh"
+  organization_url = ""
+  title = "Training on Leveraging ICT for Growth Employment and Governance"
+  url = "http://www.lict.gov.bd/"
+  certificate_url = ""
+  date_start = "2017-01-01"
   date_end = ""
-  description = ""
+  description = "Topic Covered: Java"
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  [[item]]
+  organization = "Bangladesh Open Source Network(BDOSN), Bangladesh"
+  organization_url = "https://www.bdosn.org/"
+  title = "Residential Programming Camp for Missing Daughter Mentoring Program"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2016-06-01"
+  date_end = ""
+  description = "Role: Mentor"
+
+  
 
 +++
